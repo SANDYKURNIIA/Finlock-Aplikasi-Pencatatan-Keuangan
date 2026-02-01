@@ -100,7 +100,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer lokal (L
 
 | Dashboard | Halaman Transaksi |
 | :---: | :---: |
-| ![Dashboard Screenshot](Dashboard-UMKM.png) | ![Transaksi Screenshot](link-gambar-transaksi.png) |
+| ![Dashboard Screenshot](Dashboard-UMKM.png) | ![Transaksi Screenshot](Transaksi-UMKM.png) |
 
 ---
 
