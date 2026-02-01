@@ -28,7 +28,7 @@ Dengan FinLock, pemilik usaha dapat mencatat transaksi harian, memantau arus kas
 ## 🛠️ Teknologi yang Digunakan
 
 * **Backend Framework:** Laravel 11
-* **Bahasa Pemrograman:** PHP 8.x
+* **Bahasa Pemrograman:** PHP 8.4
 * **Database:** MySQL
 * **Frontend:** Blade Templating Engine, Tailwind CSS, JavaScript
 * **Version Control:** Git
@@ -96,8 +96,6 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer lokal (L
 ---
 
 ## 📸 Screenshots
-*(Opsional: Tambahkan screenshot aplikasi di sini agar lebih menarik)*
-
 | Dashboard | Halaman Transaksi |
 | :---: | :---: |
 | ![Dashboard Screenshot](Dashboard-UMKM.png) | ![Transaksi Screenshot](Transaksi-UMKM.png) |
@@ -107,7 +105,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer lokal (L
 ## 👨‍💻 Author
 
 **Sandy Kurnia Ramadhan**
-* LinkedIn: [Sandy Kurnia Ramadhan](https://linkedin.com/in/username-linkedin-kamu)
+* LinkedIn: [Sandy Kurnia Ramadhan](https://www.linkedin.com/in/sandy-kurnia-ramadhan-703995280/)
 * GitHub: [@SANDYKURNIIA](https://github.com/SANDYKURNIIA)
 
 ---
